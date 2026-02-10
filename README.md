@@ -59,7 +59,8 @@ Write your analysis report as Inference (Current waveform, RMS value)
 
 
 ## Output
-<img width="697" height="625" alt="Screenshot 2026-02-07 163008" src="https://github.com/user-attachments/assets/f6c7eed7-e58c-47ba-9538-d91a80bfa1a5" />
+![EXP 2 OUTPUT](https://github.com/user-attachments/assets/50094ea6-f95b-4120-9d41-1ddb97734345)
+
 
 
 ## Result
